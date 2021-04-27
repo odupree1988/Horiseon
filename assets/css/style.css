@@ -63,7 +63,7 @@ header nav ul li {
     margin-left: 20px;
 }
 
-/* condensed unnecessary css into one line. changed class name to universal one */
+/* condensed multiple classes into one. changed class name to reusable one for about section */
 .about-section {
     margin-bottom: 20px;
     padding: 50px;
@@ -81,6 +81,7 @@ header nav ul li {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* end about me section changes */
 
 .float-left {
     float: left;
@@ -92,6 +93,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* condensed multiple classes into one. changed class name to reusable one for benefits section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -118,6 +120,7 @@ header nav ul li {
     margin: 10px auto;
     max-width: 150px;
 }
+/* end benefits section */
 
 .footer {
     padding: 30px;
