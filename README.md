@@ -14,5 +14,3 @@ https://odupree1988.github.io/Horiseon/
 
 ## Contribution
 Made by Owen Dupree
-
-!{Horiseon}(/assets/images/digital-margeting-meeting.jpg?raw=true "Horiseon")
