@@ -1,7 +1,9 @@
 # Horiseon
 
 ## Purpose
-A website that offers better Search Engine Optomization and helps refine web pages
+* Helps companies achieve better search engine optimization
+* Manages online reputation through their services
+* Offers social media marketing for websites
 
 ## Built With
 * HTML
