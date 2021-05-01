@@ -1,3 +1,4 @@
+![](assets/images/brand-awareness.png)
 # Horiseon
 
 ## Purpose
